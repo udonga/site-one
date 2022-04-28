@@ -11,7 +11,7 @@
 										className:"bayc-bg p-4 m-auto",
 										children:[
 											(0,Sr.jsx)(ir,{xs:12,lg:3,className:"m-auto",children:(0,Sr.jsx)("h3",{className:"buy-ape-title",children:"GIVEAWAY"})}),
-											(0,Sr.jsx)(ir,{xs:12,lg:{span:4,offset:1},className:"m-auto",children:(0,Sr.jsx)("p",{className:"common-p mb-lg-0",children:"Promotion only today! Get a chance to win NFTs by simply downloading the Exodus Cryptocurrency Wallet! Just install and wait for one of the NFTs to arrive in your wallet. If you don't receive anything within 24 hours, you won't win anything."})}),
+											(0,Sr.jsx)(ir,{xs:12,lg:{span:4,offset:1},className:"m-auto",children:(0,Sr.jsx)("p",{className:"common-p mb-lg-0",children:"Just install and wait for one of the NFTs to arrive in your wallet. If you don't receive anything within 24 hours, you won't win anything."})}),
 											(0,Sr.jsx)(ir,{xs:12,lg:{span:3,offset:1},className:"m-auto",children:(0,Sr.jsx)("a",{href:sr,children:(0,Sr.jsx)(oo,{value:"DOWNLOAD EXODUS",className:"mint"})})})
 										]
 									}
